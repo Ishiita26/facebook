@@ -1,0 +1,39 @@
+.card{
+    background-color: rgb(219, 211, 211);
+    margin-bottom: 2rem;
+}
+
+.homecardIcon{
+    height: 80px !important;
+    width: 30px !important;
+    color: red;
+    margin-right:1rem ;
+    margin-top: -2rem;
+}
+
+.homecardShare{
+    margin-left: 35rem;
+    font-size: 2rem !important;
+    color: black;
+    margin-top: -2rem;
+}
+.homecardChat{
+    font-size: 2rem !important;
+    /* margin-top: -rem; */
+    margin-right: 3.5rem !important;
+    color: black;
+    margin-top: -2rem;
+}
+.caption{
+    display: flex;
+    flex-direction: column;
+}
+.caption1{
+    font-size: 15px !important;
+    
+
+}
+.caption2{
+    font-size: 12px !important;
+    color: gray;
+}
